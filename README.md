@@ -1,5 +1,2 @@
 # hello-world
-Sahil Mulani
-Flat No E-2
-Karvenagar
-Pune
+We currently maintain 585 data sets as a service to the machine learning community
